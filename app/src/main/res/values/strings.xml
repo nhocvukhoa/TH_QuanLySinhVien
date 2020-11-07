@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuanLySinhVien</string>
+    <array name="lop">
+        <item>C++</item>
+        <item>Java</item>
+        <item>IOS</item>
+        <item>PHP</item>
+    </array>
+</resources>

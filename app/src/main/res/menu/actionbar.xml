@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/idTrangChu"
+        android:title="Trang Chu"
+        app:showAsAction="never"/>
+    <item android:id="@+id/idDKKHoc"
+        android:title="Dang Ky Hoc"
+        app:showAsAction="never"/>
+    <item android:id="@+id/idQuanLy"
+        android:title="Quan Ly Lop"
+        app:showAsAction="never"/>
+    <item android:id="@+id/idTimKiem"
+        android:title="Tim Sinh Vien"
+        app:showAsAction="never"/>
+</menu>
